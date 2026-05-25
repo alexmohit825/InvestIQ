@@ -1,0 +1,8 @@
+{
+  "name": "investiq",
+  "version": "2.0.0",
+  "description": "Investment intelligence web app",
+  "scripts": {
+    "start": "serve ."
+  }
+}
